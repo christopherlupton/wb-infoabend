@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{299:function(n,o,t){"use strict";t.r(o);var e=t(172),l={components:{Form:e.d,Follow:e.c,Join:e.h}},c=t(9),component=Object(c.a)(l,(function(){var n=this.$createElement,o=this._self._c||n;return o("div",[o("Join"),this._v(" "),o("Form"),this._v(" "),o("Follow")],1)}),[],!1,null,null,null);o.default=component.exports}}]);
